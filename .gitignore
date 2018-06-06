@@ -1,3 +1,4 @@
-audio_cds/*
-data/*
-.ipynb_checkpoints
+beatles_dataset/audio_cds/*
+beatles_dataset/data/*
+beatles_dataset/.ipynb_checkpoints
+acoustic_guitar_dataset/data/*
